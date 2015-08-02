@@ -1,0 +1,30 @@
+.user_icon {
+  float: left;
+  border: none;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+.user_link {
+  text-decoration: none;
+}
+
+.timestamp {
+  color: Gray;
+}
+
+.tweet_border {
+  clear: both;
+}
+
+.tweets_left {
+  width: 49%;
+  float: left;
+  padding-right: 1%;
+}
+
+.tweets_right {
+  width: 49%;
+  float: right;
+  padding-left: 1%;
+}

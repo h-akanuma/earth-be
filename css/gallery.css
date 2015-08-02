@@ -1,0 +1,12 @@
+/* 
+	Basic style for www.earth-be.com/index.html
+*/
+
+#content{
+	float: left;
+	width: 400px;
+}
+
+#images{
+	text-align: right;
+}

@@ -1,0 +1,80 @@
+/* 
+	Basic style for www.earth-be.com
+*/
+
+body{
+	background-color: rgb(251,255,234);
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	text-align: center;
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	line-height: 170%;
+}
+
+h1 {
+	font: 22px Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+h2 {
+	font:16px Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+hr{
+	color:rgb(24,153,5);
+}
+
+
+.text-red{
+	color: red;
+}
+
+.year{
+	margin-right: 15px;
+}
+
+#main{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	width: 900px;
+}
+
+#topicPath{
+	padding-top: 5px;
+}
+
+#content{
+	padding-top: 10px;
+}
+
+#footer{
+	clear: both;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font:12px Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+
+#headerLogo{
+	border: 0;
+	text-decoration: none;
+	float: left;
+}
+
+#headerAd{
+	margin-top: 10px;
+	float:right;
+	font-size: 14px;
+}
+#headerAd a{
+	text-decoration: none;
+}
+#footerNavi{
+	text-align: center;
+	width: 800px;
+}
+#footerNavi span{
+	margin-left: 20px;
+	margin-right: 20px;
+}

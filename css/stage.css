@@ -1,0 +1,24 @@
+/* 
+	Basic style for www.earth-be.com/index.html
+*/
+
+p{
+	padding-right: 60px;
+	padding-left: 30px;
+	line-height: 180%;
+}
+
+#text{
+	text-align: left;
+	line-height: 150%;
+	width: 60%;
+	float: left;
+}
+
+a img {
+	border-style: none;
+}
+
+.col{
+	width:100px;
+}
