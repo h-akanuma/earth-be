@@ -46,8 +46,6 @@ function outputGlobalNavi() {
 	// document.write(subTitleImgTag);
 	document.write('<span id="headerAd"><a href="http://ameblo.jp/earth-be1996/">稽古日誌（アメブロ）</a> ＆<br /><a href="http://www.facebook.com/pages/DANCE-TROUPE-Earth-Be/212201995459752">Facebookページ</a> も公開中!!</span>');
 	if(isTop) {
-		document.write('<div><a href="stage.html"><img id="topBanner" src="images/ad/time_of_memory_page1_head_w900.jpg" /></a></div>');
-		document.write('<iframe width="900" height="506" src="//www.youtube.com/embed/UZoxxZge8l8?showinfo=0" frameborder="0" allowfullscreen></iframe>')
 		document.write('<div><img id="topBanner" src="images/ad/time_of_memory_page2_head_w900.jpg" /></div>');
 	}
 	document.write('<ul class="menu">');
